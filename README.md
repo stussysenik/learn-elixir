@@ -1,5 +1,8 @@
 # LearnElixir
 
+![Demo](demo.gif)
+
+
 A Phoenix LiveView lab for supervised reasoning agents.
 
 The app ships with:
